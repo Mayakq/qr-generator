@@ -17,6 +17,6 @@ require (
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/yeqown/reedsolomon v1.0.0 // indirect
-	golang.org/x/image v0.10.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/image v0.15.0 // indirect
+	golang.org/x/sys v0.19.0 // indirect
 )
