@@ -1,6 +1,6 @@
 module qr_generator
 
-go 1.22
+go 1.22.1
 
 require (
 	github.com/rs/zerolog v1.32.0
